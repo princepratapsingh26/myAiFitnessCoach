@@ -119,7 +119,7 @@ Enhancing accessibility for users who prefer voice guidance.
 
 Clone the repository
 
-git clone  https://github.com/Vansh12970/myFitnessAi.git
+git clone  https://github.com/princepratapsingh26/myAiFitnessCoach/tree/main
 cd myFitnessAi
 
 
